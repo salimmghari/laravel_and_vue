@@ -9,7 +9,8 @@ Technologies:
 - MySQL
 - JavaScript
 - TypeScript
-- Angular
+- Vue
+- Vuex
 - jQuery
 - CSS
 - Bootstrap
